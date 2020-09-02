@@ -44,6 +44,8 @@
     ·
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
+    <a href="/docs/readme_it.md">Italiano</a>
+    ·
     <a href="/docs/readme_kr.md">한국어</a>
   </p>
 </p>
@@ -56,7 +58,7 @@
 - [Cartão de principais linguagens de programação](#cartão-de-principais-linguagens-de-programação)
 - [Temas](#temas)
 - [Personalização](#personalização)
-- [Faça suas próprias implantações](#faça-suas-próprias-implantações)
+- [Faça suas próprias implantações](#implante-em-sua-própria-instância-do-vercel)
 
 # Cartão de estatísticas do GitHub
 
